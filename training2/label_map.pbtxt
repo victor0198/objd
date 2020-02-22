@@ -1,0 +1,39 @@
+item{
+	id: 1
+	name: 'priority'
+}
+
+item{
+	id: 2
+	name: 'stop'
+}
+
+item{
+	id: 3
+	name: 'parking'
+}
+
+item{
+	id: 4
+	name: 'pedestrian'
+}
+
+item{
+	id: 5
+	name: 'pedestrian_cross'
+}
+
+item{
+	id: 6
+	name: 'red_light'
+}
+
+item{
+	id: 7
+	name: 'yellow_light'
+}
+
+item{
+	id: 8
+	name: 'green_light'
+}
